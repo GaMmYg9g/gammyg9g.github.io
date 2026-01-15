@@ -1,4 +1,4 @@
-// sw.js - VERSIÓN CORREGIDA para GitHub Pages
+// sw.js - VERSIÓN CORREGIDA para GitHub Page
 const CACHE_NAME = 'consultas-telefonicas-v4';
 const urlsToCache = [
   './',                    // IMPORTANTE: ./ en lugar de /
