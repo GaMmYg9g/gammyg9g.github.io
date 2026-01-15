@@ -4,19 +4,18 @@
   "description": "Aplicación para realizar consultas telefónicas",
   "start_url": "/",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#6a11cb",
   "theme_color": "#6a11cb",
-  
   "icons": [
     {
-      "src": "icon-144x144.png",
+      "src": "144x144.png",
       "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "144x144.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
-  
-  "categories": ["utilities", "productivity"],
-  "lang": "es",
-  "dir": "ltr"
 }
