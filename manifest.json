@@ -1,6 +1,6 @@
 {
-  "name": "i-Droid Check",
-  "short_name": "i-DroidCheck",
+  "name": "ConsulTel",
+  "short_name": "ConsulTel",
   "description": "Aplicación para realizar consultas telefónicas",
   "start_url": "https://gammyg9g.github.io/",
   "scope": "/",
